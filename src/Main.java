@@ -6,5 +6,7 @@ public class Main {
     public static void main(String[]args) {
         System.out.println("Malamute Easter Egg");
 
+        System.out.print(Team.liz());
+
     }
 }
