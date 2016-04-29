@@ -16,7 +16,7 @@ public class Team {
     }
 
     private static String tabi() {
-        return "";
+        return "I'm Tabi! I don't really wanna think too hard about something cool to say about myself so I'll stop now.";
     }
 
     private static String lan() {
