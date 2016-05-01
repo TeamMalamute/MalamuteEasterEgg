@@ -1,3 +1,4 @@
+package main;
 /**
  * Created by lizmiller on 4/28/16.
  /** Purpose:	We created this class to return a string value of each member of our team
@@ -7,7 +8,8 @@
  * 				4/29/16
  *
  * @author:     liz. miller
- * @author 		Abdulkadir S Fiqi
+ * @author:		Abdulkadir S Fiqi
+ * @author:		Tabi Stein
  * @version		2016.29.4.001
  */
 public class Team {
@@ -47,7 +49,7 @@ public class Team {
      * @return string value.
      */
     private static String lan() {
-        return "";
+        return "I'm Lan, do I like to code? not until the code is working!";
     }
 
     /**
