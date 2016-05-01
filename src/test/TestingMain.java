@@ -2,11 +2,12 @@
 /**
  * Created by lizmiller on 4/28/16.
  */
-
+package test;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+import main.Team;
 public class TestingMain {
 	
 //	   @Test
@@ -20,7 +21,7 @@ public class TestingMain {
 	 * Test method for getTotalMembers().
 	 */
 	@Test
-	public static void getTotalMembersTest() {
+	public void getTotalMembersTest() {
 		assertEquals("getTotalMembers method failed!", MEM_COUNT, Team.getTotalMembers());
 	}
 
@@ -28,7 +29,7 @@ public class TestingMain {
 	 * Test method for getNames()().
 	 */
 	@Test
-	public static void getNamesTest() {
+	public void getNamesTest() {
 		String[] names = Team.getNames();
 		// Lan
 		assertEquals("getNamesTest method failed!", "I'm Lan, do I like to code? not until the code is working!",

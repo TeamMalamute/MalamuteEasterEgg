@@ -1,3 +1,4 @@
+package main;
 /**
  * Created by lizmiller on 4/28/16.
  /** Purpose:	We created this class to return a string value of each member of our team
@@ -8,6 +9,7 @@
  *
  * @author:     liz. miller
  * @author:		Abdulkadir S Fiqi
+ * @author:		Tabi Stein
  * @version		2016.29.4.001
  */
 public class Team {
