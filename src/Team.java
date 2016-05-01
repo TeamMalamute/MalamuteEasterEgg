@@ -7,7 +7,7 @@
  * 				4/29/16
  *
  * @author:     liz. miller
- * @author 		Abdulkadir S Fiqi
+ * @author:		Abdulkadir S Fiqi
  * @version		2016.29.4.001
  */
 public class Team {
@@ -47,7 +47,7 @@ public class Team {
      * @return string value.
      */
     private static String lan() {
-        return "";
+        return "I'm Lan, do I like to code? not until the code is working!";
     }
 
     /**
