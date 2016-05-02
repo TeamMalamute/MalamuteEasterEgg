@@ -10,10 +10,13 @@ package main;
  *
  * @author:     liz. miller
  * @author 		Abdulkadir S Fiqi
+ * @author:		Tabi Stein
+ * @author:     Casey Peterson
+ * @author:     Lan Ly
  * @version		2016.29.4.001
  */
 public class Welcome {
-    /** welocomeString instantiates the an objects of Team instances, and
+    /** welcomeString instantiates the an objects of Team instances, and
      *  It creates a stringBuilder to appended and prints the string value of the methods
      *  in Team.java class.
      *

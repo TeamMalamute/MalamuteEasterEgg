@@ -10,6 +10,8 @@ package main;
  * @author:     liz. miller
  * @author:		Abdulkadir S Fiqi
  * @author:		Tabi Stein
+ * @author:     Casey Peterson
+ * @author:     Lan Ly
  * @version		2016.29.4.001
  */
 public class Team {
@@ -57,7 +59,7 @@ public class Team {
      * @return string value.
      */
     private static String casey() {
-        return "";
+        return "I'm Casey, go Team Malamute!";
     }
 
     /**<p>This integer methods returns the total number of our team.</p>

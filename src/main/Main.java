@@ -17,6 +17,8 @@ import java.util.Scanner;
  * @author:     liz. miller
  * @author 		Abdulkadir S Fiqi
  * @author:		Tabi Stein
+ * @author:     Casey Peterson
+ * @author:     Lan Ly
  * @version		2016.29.4.001
  */
 public class Main {

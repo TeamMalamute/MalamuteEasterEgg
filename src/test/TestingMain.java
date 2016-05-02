@@ -10,12 +10,7 @@ import org.junit.Test;
 import main.Team;
 public class TestingMain {
 	
-//	   @Test
-//       public void testMain() {
-//           String [] array = new String[3];
-//           Main.main(array);
-//       }
-//       
+     
 	private static final int MEM_COUNT = 5;
 	/**
 	 * Test method for getTotalMembers().
@@ -40,7 +35,7 @@ public class TestingMain {
 		assertEquals("getNamesTest method failed!", "I'm Abdul, too lazy to code but too smart to find shortcut!!!",
 				names[2]);
 		// Casey
-		assertEquals("getNamesTest method failed!", "", names[3]);
+		assertEquals("getNamesTest method failed!", "I'm Casey, go Team Malamute!", names[3]);
 		// Tabi
 		assertEquals("getNamesTest method failed!",
 				"I'm Tabi! I don't really wanna think too hard about something cool to say about myself so I'll stop now.",
